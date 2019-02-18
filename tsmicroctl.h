@@ -1,0 +1,1 @@
+int silabs_init();
